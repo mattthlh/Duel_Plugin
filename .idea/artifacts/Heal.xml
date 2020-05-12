@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Heal">
+    <output-path>$USER_HOME$/projects/Server/plugins</output-path>
+    <root id="archive" name="Duel.jar">
+      <element id="module-output" name="Duel" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

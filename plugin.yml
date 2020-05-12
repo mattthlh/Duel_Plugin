@@ -1,0 +1,29 @@
+name: Duel
+main: com.matt.duel.Main
+version: 1.0
+author: Matt He
+api-version: 1.13
+commands:
+  duel:
+    description: Duels another player
+    usage: /<command> [player]
+
+  accept:
+    description: Accepts a duel
+    usage: /<command>
+
+  deny:
+    description: Denies a duel
+    usage: /<command>
+
+  setduel1:
+    description: Sets the first duel spawn
+    usage: /<command>
+
+  setduel2:
+    description: Sets the second duel spawn
+    usage: /<command>
+
+  track:
+    description: Tracks a player
+    usage: /<command> [player]
